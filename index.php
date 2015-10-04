@@ -25,7 +25,11 @@ back to this <abbr title="All Tag Project"><em>Page</em></abbr>
 
 <h2>header 2</h2>
 
+<q>Using Q tag here</q>
+
 <h3>header 3</h3>
+
+<p><s>S tag kasutamine</s></p>
 
 <h4>header 4</h4>
 
@@ -226,10 +230,74 @@ back to this <abbr title="All Tag Project"><em>Page</em></abbr>
 <progress value="52" max="100"></progress>
 
 <br>
+<samp>Samp tag using here!</samp>
+<br>
+<br>
+
+<section>
+    <p>testing out <strong>section</strong> tag!</p>
+</section>
+<br>
+<br>
+
+<select>
+    <option value="Banaan">Banaan</option>
+    <option value="Pirn">Pirn</option>
+    <option value="Auto">Auto</option>
+    <option value="audi">Audi</option>
+</select>
+<br>
+<p><small>Small <span style="color:blue">tag</span></small></p>
+
+<br>
+
+<style>
+    p {color:blue;}
+</style>
+
+<br>
+
+<table>
+    <thead>
+    <tr>
+        <th>tfood</th>
+        <th>tbody</th>
+    </tr>
+    </thead>
+    <tfoot>
+    <tr>
+        <td>1</td>
+        <td>2</td>
+    </tr>
+    </tfoot>
+    <tbody>
+    <tr>
+        <td>3</td>
+        <td>4</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>6</td>
+    </tr>
+    </tbody>
+</table>
 
 
+
+
+
+
+<p>kirjutasin siia kell <time>15:23</time></p>
+
+<p>This <sup>text</sup> contains <sub>subscript</sub> text.</p>
+
+
+<var>Variable</var>
+
+<p>
+    To learn AJAX, you must be familiar with the XML<wbr>Http<wbr>Request Object.
+</p>
 <hr>
-
 <details>
     <summary>Copyright 2015.</summary>
     <p> - by indro. All Rights Reserved.</p>

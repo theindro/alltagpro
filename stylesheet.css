@@ -28,3 +28,38 @@ div {
     animation-duration: 3s;
 
 }
+
+p{    margin: 5px 5px 5px 5px;
+    border: 1px #33ff23;
+    letter-spacing: 2px;
+    hanging-punctuation: first;
+    line-break: auto;
+    tab-size: 3px;
+    text-align: left;
+    text-align-last: start;
+    text-combine-upright: none;
+    text-indent: each-line;
+    text-justify: none;
+    text-transform: capitalize;
+    white-space: nowrap;
+    -ms-word-break: break-all;
+    word-break: break-all;
+    word-spacing: inherit;
+    word-wrap: break-word;
+}
+h1 {color:white; background-color:rgba(255, 255, 255, 0.25); border: 1px solid black;}
+h2 {color:white;}
+h3 {color:white;}
+h4 {color:white;}
+h5 {color:white;}
+h6 {color:white;}
+q {color:yellow;}
+s {color:blue;}
+
+table {
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: greenyellow;
+}
+

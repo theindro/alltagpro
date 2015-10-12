@@ -26,6 +26,33 @@ div {
     background-color: #ffd600;
     animation-name: example;
     animation-duration: 3s;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    max-height: inherit;
+    max-width: inherit;
+    min-width: inherit;
+    min-height: inherit;
+    padding-bottom: 1px;
+    padding-top: 1px;
+    padding-left: 1px;
+    padding-right: 1px;
+    z-index: inherit;
+    align-content: inherit;
+    align-items: inherit;
+    flex: inherit;
+    flex-basis: inherit;
+    flex-wrap: inherit;
+    justify-content: inherit;
+    line-height: inherit;
+    overflow-wrap: break-word;
+    text-decoration: none;
+    text-shadow: #50a7ff;
+    font-variant: inherit;
+    text-overflow: clip;
+    list-style: none;
+    box-sizing: inherit;
 
 }
 
@@ -49,17 +76,43 @@ p{    margin: 5px 5px 5px 5px;
 }
 h1 {color:white; background-color:rgba(255, 255, 255, 0.25); border: 1px solid black;}
 h2 {color:white;}
-h3 {color:white;}
+h3 {
+    color:white;
+    font-weight: 200;
+    font: 100;
+    font-size: medium;
+    font-stretch: condensed;
+    font-style: inherit;
+    font-variant: inherit;
+}
 h4 {color:white;}
 h5 {color:white;}
 h6 {color:white;}
 q {color:yellow;}
 s {color:blue;}
 
-table {
-    display: table;
-    border-collapse: separate;
-    border-spacing: 2px;
-    border-color: greenyellow;
+#table {
+    background-clip: border-box;
+    border-style: solid;
+    border-radius: 2px;
+    border-top: double;
+    border-width: 6px;
+    border-top-color: cadetblue;
+    border-bottom: thick;
+    border-bottom-color: #50a7ff;
+    border-bottom-left-radius: 2em;
+    border-bottom-right-radius: 1em;
+    border-top-left-radius: 1em;
+    border-top-right-radius: 2em;
+    border-bottom-style: double;
+    border-left: ridge;
+    border-left-color: #daff16;
+    border-right: ridge;
+    border-right-color: #daff16;
+    box-decoration-break: clone;
+    box-shadow: 0 0 15px #ffff6f;
+    border-collapse: collapse;
+    caption-side: bottom;
+    cursor: col-resize;
 }
 

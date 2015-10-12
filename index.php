@@ -292,6 +292,12 @@ back to this <abbr title="All Tag Project"><em>Page</em></abbr>
 <p>This <sup>text</sup> contains <sub>subscript</sub> text.</p>
 
 
+<br>
+<video src="www.youtube.com">hello</video>
+<embed src="test.123" type="test">
+<br>
+
+
 <var>Variable</var>
 
 <p>

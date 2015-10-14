@@ -256,7 +256,7 @@ back to this <abbr title="All Tag Project"><em>Page</em></abbr>
 </style>
 
 <br>
-
+<!--This is a comment. Comments are not displayed in the browser-->
 <table>
     <thead>
     <tr>

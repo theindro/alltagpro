@@ -53,6 +53,26 @@ div {
     text-overflow: clip;
     list-style: none;
     box-sizing: inherit;
+    border-image,
+    border-color,
+    border-image: none;
+    border-image-outset,
+    border-image-repeat,
+    border-image-slice,
+    border-left-style,
+    border-left-width,
+    border-right-style,
+    border-right-width,
+    border-top-style,
+    border-top-width,
+    display,
+    overflow-x,
+    overflow-y,
+    visibility,
+    text-decoration-color,
+    font-feature-settings,
+    font-kerning,
+    font-size-adjust
 
 }
 
@@ -73,6 +93,8 @@ p{    margin: 5px 5px 5px 5px;
     word-break: break-all;
     word-spacing: inherit;
     word-wrap: break-word;
+    background-attachment: inherit;
+
 }
 h1 {color:white; background-color:rgba(255, 255, 255, 0.25); border: 1px solid black;}
 h2 {color:white;}
@@ -114,5 +136,48 @@ s {color:blue;}
     border-collapse: collapse;
     caption-side: bottom;
     cursor: col-resize;
+    direction,
+    list-style-image,
+    list-style-position,
+    column-count,column-fill,
+    column-gap,column-rule,
+    column-rule-color,
+    column-rule-style,
+    column-rule-width,
+    quotes,
+    opacity,
+    border-image-source,
+    border-image-width,
+    clear,
+    vertical-align,
+    unicode-bidi,
+    border-spacing,
+    empty-cells,
+    table-layout,
+    counter-increment,
+    counter-reset,
+    list-style-type,
+    perspective,
+    perspective-origin,
+    transform-origin,
+    transform-style,
+    transition,
+    outline,
+    outline-color,
+    outline-offset,
+    outline-style,
+    outline-width,
+    break-after,
+    break-before,
+    break-inside,
+    page-break-after,
+    page-break-before,
+    page-break-inside,
+    filter,
+    mask,
+    track,
+    rest,
+    param,
+    border-bottom-width,
 }
 

@@ -55,7 +55,7 @@ div {
     box-sizing: inherit;
     border-image,
     border-color,
-    border-image: none;
+    border-image,
     border-image-outset,
     border-image-repeat,
     border-image-slice,

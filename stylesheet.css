@@ -91,7 +91,9 @@ div {
     column-width,
     columns;
 }
-
+@font-face {
+    font-family: inherit;
+}
 p{    margin: 5px 5px 5px 5px;
     border: 1px #33ff23;
     letter-spacing: 2px;

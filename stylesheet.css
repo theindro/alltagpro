@@ -5,7 +5,7 @@ body {
     background-position: top;
     background-size: auto;
     background-origin: content-box;
-    background-color: white;
+    background: linear-gradient(#50a7ff,#33ff23);
     border: 0px solid #fafffb;
     border-bottom-style: dotted;
     cursor: crosshair;
@@ -53,27 +53,43 @@ div {
     text-overflow: clip;
     list-style: none;
     box-sizing: inherit;
-    border-image,
-    border-color,
-    border-image,
-    border-image-outset,
-    border-image-repeat,
-    border-image-slice,
-    border-left-style,
-    border-left-width,
-    border-right-style,
-    border-right-width,
-    border-top-style,
-    border-top-width,
-    display,
-    overflow-x,
-    overflow-y,
-    visibility,
-    text-decoration-color,
-    font-feature-settings,
-    font-kerning,
-    font-size-adjust
-
+    border-image: none;
+    border-color: #00fff4;
+    border-image: none;
+    border-image-outset: 20px
+    border-image-repeat: norepeat;
+    border-image-slice: 1;
+    border-left-style: double;
+    border-left-width: thick;
+    border-right-style: inherit;
+    border-right-width: medium;
+    border-top-style: none;
+    border-top-width: 50px;
+    display: block;
+    overflow-x: inherit;
+    overflow-y: inherit;
+    visibility: inherit;
+    text-decoration-color: #ffd600;
+    font-feature-settings: off;
+    font-kerning: auto;
+    font-size-adjust: 1;
+    align-self: auto;
+    flex-direction: column;
+    flex-flow: column;
+    flex-grow: inherit;
+    flex-shrink: inherit;
+    order: inherit;
+    hyphens: auto;
+    track: none;
+    @font-face: none;
+    animation-delay,
+    animation-direction:
+    backface-visibility,
+    transition-property,
+    transition-duration,
+    transition-delay,
+    column-width,
+    columns;
 }
 
 p{    margin: 5px 5px 5px 5px;

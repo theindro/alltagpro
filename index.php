@@ -11,7 +11,7 @@
 
 </head>
 <body>
-
+<u>denied</u>
 <link rel="stylesheet" href="stylesheet.css">
 
 <a href="index.php">Link </a>
@@ -22,11 +22,11 @@ back to this <abbr title="All Tag Project"><em>Page</em></abbr>
 <header>
 <h1>header 1 - ALL TAG PROJECT - header 1</h1>
 </header>
-
+<script></script>
 <h2>header 2</h2>
 
 <q>Using Q tag here</q>
-
+<ul><li style="color:blueviolet">heya</li></ul>
 <h3>header 3</h3>
 
 <p><s>S tag kasutamine</s></p>
